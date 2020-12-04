@@ -1,0 +1,9 @@
+.face {
+    color: red;
+    opacity: 0.5;
+    /* transform: rotateX(60deg); */
+}
+
+.back {
+    color: red;
+}

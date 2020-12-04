@@ -1,0 +1,11 @@
+body {
+    background-color: lightblue;
+}
+li {
+    list-style-type: disc;
+    margin:10px;
+    color: saddlebrown;
+}
+a {
+    font-weight:bold;
+}
